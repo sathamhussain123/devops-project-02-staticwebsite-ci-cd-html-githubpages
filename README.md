@@ -1,4 +1,3 @@
-
 # 🌐 Project 2: Static Website CI/CD
 
 This project demonstrates how to **deploy a static website (HTML/CSS/JS)** automatically using **GitHub Actions** and **GitHub Pages** 🚀.
